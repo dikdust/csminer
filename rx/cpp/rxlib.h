@@ -1,3 +1,5 @@
+// Copyright 2020 cryptonote.social. All rights reserved. Use of this source code is governed by
+// the license found in the LICENSE file.
 #include <stdbool.h>
 #include <stdint.h>
 
